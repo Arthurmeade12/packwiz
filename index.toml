@@ -963,6 +963,10 @@ hash = "2cfbef78ef28591ebb47ae979dc507d70c9b7d52f2c78e3034a61d4732a2bb68"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "a616e7ef10ef33fa0d0487311ab0cce784a0e787138fae6439c90dfdecfdfd3c"
+
+[[files]]
 file = "resourcepacks/the-creatorpack.pw.toml"
 hash = "c4170a5f51406f29c2d81c2ec20035ccce88c408a4f085c9fad5472e5b303473"
 metafile = true
