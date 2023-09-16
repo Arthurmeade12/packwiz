@@ -959,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a616e7ef10ef33fa0d0487311ab0cce784a0e787138fae6439c90dfdecfdfd3c"
+hash = "a148dfe3b664801b781b495f7df31763840a31546a16dc799922366f4990d423"
 
 [[files]]
 file = "resourcepacks/the-creatorpack.pw.toml"
