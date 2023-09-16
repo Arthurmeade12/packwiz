@@ -1,2 +1,291 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "7173701aafb7b0a39bc4bd2132fe6eba055a769f3413ead3b361f8099117557a"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "0789d0338dd87d9420f09c059d13d038d9c7084a3c462b2dd41986490b5fd43a"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "b2f5bbb901028461e8a1e949ea299ca4f32ca9da88dbccaa0bcdef16022430b5"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "0bbbd050b43ffdd1e0135614ec217f0655bcaf4072cbf1faf10f5678d51dda62"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "c6e7b0b76b5051e454b8f0a143fba7ae77e1eef6d9a43c09ecc1638b484601af"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "d65a4366f3f7798b6373eafe58f4f3e0de8d77d9aee88175ee19934c737659a5"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "15ff6d7e0f898b993a3376a2c23dd4c5684b68b09ef3e573c5b2c61dd5f746a0"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45044ceaf49f257a75b60118ee8e1c96c94f9c5c62a2c5b33a846006e8ad1ab3"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "139d5b6ce3de4ee4bdd81e633649994b928cceada8ac3243816aed199e1cb6f3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "2330fb710f3b7b7b7d01bb5b60b20a83141d9a5937a8915d9f238c1b1bb1bff7"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "259636601b21c7ae999f27ea087149a9a004cb7c688ca6b37c63f0e2d81ed1f9"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0579204673f3d0d3a4423010f03c867a6a7b519a260191ccbdd029256b6449cd"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.pw.toml"
+hash = "a86bacb53e4e78db2e07029d5427ac282c2e1e9e9aaa372e1aadabeed53c5f6e"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "2423502ac14234635177138909605f6fe8fb6a7e0fedba4f32fd673415310d37"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "701c111cd7990a5a80eaf1f255793cae5da754acc888b10ced61a58b49c7039d"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "b2596dec9111b739cd6b78eef860b91f272a6d74d1b7dc8e35d2c156f5bcd781"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ad8bc20a031c88ecaa4acdbe8e3537b90d2ac6c33fd62b8cf6013dbbe6e15112"
+metafile = true
+
+[[files]]
+file = "mods/memory-usage-screen.pw.toml"
+hash = "6c41c600f6d9c10d3a7212af1d0221772bcd81ecbb61decb501b4e7b5c8ec00a"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "92c9cd0fd116f989f183c53fc8d2e1ca963c3178443b2d536778567e87724e52"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "df76dbdd6bf158ec29407c7d707998b4af1de74248539787699eda03a6d0dab9"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "dae4dd79e8db2daea3ec318b456fc0e30f529b9acca0a444b4ce7d1debfca143"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "3c8d395f37dc58dd701cf14f55a1c98317da48e689d4a993a16932ee1a23da60"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "78362b7e7661e4511545b6f782e3dbcff2500a64e61dea86125f2a60484eb6a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "76f61a89e121075d513f9a8980e4aaac5efecb23ef49559a3cc59d086ddb82c7"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "2a7dcfea0c0ee18353579ac88be5d5d7d95b2281cd3181529a7992357318f2db"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "af459692ca2a4061e32d247b80bbdd260298ee1f6295ee0ad035df55794e129e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "028e66cf8b1275e215eadbdffc5ddf203fd8e2e26859549358cda31437429227"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "3adc51a24e7d2ca571ab7c14f2bd970d3545c37259d48da04ce4fc2d617aeb66"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "811988ed0dd862bd586cf50d0d3cdd642277dcefdf5d1980c6d8504ad2f8a245"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "0e7b8c40cadea7bb8dbd94cc4d9830dc0f6b34a61f2c32228b3dba3529d1dc8c"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "41986c728a97a5b62edd0bf1fe47b98404e4b40568d3478b743572f89864d994"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "702d915e0f73f8897043a096d62d11717e02707ca2a82336e9daee3fe0b54a11"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2cfbef78ef28591ebb47ae979dc507d70c9b7d52f2c78e3034a61d4732a2bb68"
+metafile = true
