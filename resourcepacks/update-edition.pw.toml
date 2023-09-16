@@ -1,0 +1,13 @@
+name = "Update Edition"
+filename = "TrailsAndTales.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OpJ6qTh/versions/zlb6xSOl/TrailsAndTales.zip"
+hash-format = "sha1"
+hash = "9dad7c2d46cf4bc704813b8f2a12176e187d54ec"
+
+[update]
+[update.modrinth]
+mod-id = "2OpJ6qTh"
+version = "zlb6xSOl"

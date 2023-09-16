@@ -669,6 +669,10 @@ file = "config/xaeroworldmap.txt"
 hash = "1fb400dbfe5a50e3072b48798c1ffdd434ce0e9dbc2ad737a0d8c2365fb88af7"
 
 [[files]]
+file = "icon.png"
+hash = "a3f5dc9568e96a6e770e9d201562fdf4f26c81f4a40a97ae58b1d78f7cae8e8f"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "7173701aafb7b0a39bc4bd2132fe6eba055a769f3413ead3b361f8099117557a"
 metafile = true
@@ -956,4 +960,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2cfbef78ef28591ebb47ae979dc507d70c9b7d52f2c78e3034a61d4732a2bb68"
+metafile = true
+
+[[files]]
+file = "resourcepacks/the-creatorpack.pw.toml"
+hash = "c4170a5f51406f29c2d81c2ec20035ccce88c408a4f085c9fad5472e5b303473"
+metafile = true
+
+[[files]]
+file = "resourcepacks/update-edition.pw.toml"
+hash = "b32b2c6251424b01531720b18e9468f0a3d540faf0cdf64a748cc65295b5e34c"
 metafile = true

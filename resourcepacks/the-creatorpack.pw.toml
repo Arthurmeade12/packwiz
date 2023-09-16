@@ -1,0 +1,13 @@
+name = "The CreatorPack"
+filename = "CreatorPack-1.20.0-V1.2.7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50d07ddc288c0a58ab56a67a2211653cf0b7d829"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4571913
+project-id = 332329
