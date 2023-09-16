@@ -778,11 +778,6 @@ hash = "a86bacb53e4e78db2e07029d5427ac282c2e1e9e9aaa372e1aadabeed53c5f6e"
 metafile = true
 
 [[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
 metafile = true
