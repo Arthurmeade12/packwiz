@@ -26,11 +26,11 @@ hash = "4497616b9d09c26c3afaf49f0b3771728a4ba16773169c1254e7e4c3674ff8c0"
 
 [[files]]
 file = "config/aether-client.toml"
-hash = "74b9dc98f4be02cdfb8f99a9422a3fe82a1722a817591ddcf073bed79f94c9a4"
+hash = "ac7de339da83513aaaefbb937e21fb55c67315f64699e89c0f2589395cecf15c"
 
 [[files]]
 file = "config/aether-common.toml"
-hash = "c61850169d1f4f3c7742f00534bd7d95ff4bd093be2d0b49f341937de5ddbb0f"
+hash = "819347b0252be8b0250c8e8b176e9bb2a015035e03d070265e80f1a52dff3421"
 
 [[files]]
 file = "config/aether/aether_customizations.txt"
@@ -46,7 +46,7 @@ hash = "d65113ea15e814463b1f477b0cebcc98dfe06a5d3f7100e3bacd414c7cb391ec"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "d66465b725ea7105d4daaaf8fe4a0b0690e59ae860da85a351f97d703ea07ca6"
+hash = "fe8f7e8a26b6c9e7b22d8e788ffab16259cc58da300ed4a90834560d85cd0d5a"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -413,12 +413,16 @@ file = "config/aquaculture-common.toml"
 hash = "b1f28f45193b09d21ea455b84b7ac9b9deda2b943b122c6fa3c0ed94db257c6d"
 
 [[files]]
+file = "config/attributefix.json"
+hash = "3be892a0c66418b41d471201c65aab180c2336018f70bc0c1f3660fa92f0ce7e"
+
+[[files]]
 file = "config/balm-common.toml"
 hash = "f24f7cede066400c657af13b1aff84e4920ac531bf24ab18cff1ef32fff72835"
 
 [[files]]
 file = "config/betterf3.toml"
-hash = "e185346d705319f84285480e8f5396420a864567d14c0761dedf99271d464c72"
+hash = "bb25b1182c33bfb9310ba28480c60ce7d6e180b451c3776c904eb4bb29dcb348"
 
 [[files]]
 file = "config/betterfpsdist.json"
@@ -442,7 +446,7 @@ hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
 [[files]]
 file = "config/car-client.toml"
-hash = "f16c79c05e6c10eb0f0bf7d5d9397d55217b980dd5e2ae918c50fba6b07d6ec3"
+hash = "3ebeda1d12e17f0256dd245fba75e178557550e7589efa116b6c9e251cd5df25"
 
 [[files]]
 file = "config/citadel-common.toml"
@@ -454,7 +458,7 @@ hash = "ae289a55235eb7ea3d998cdac5d5927d91aea2864ea1a0728bd72403c135d165"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
-hash = "dadfe55734b0cc802499f3c76ddb7fadfcc30d37c4525eb840b132ff93da98ad"
+hash = "f3cd73ca2257d506dc261ca469b5fc3d04a6a245357f8269833da16783803b0d"
 
 [[files]]
 file = "config/create-client.toml"
@@ -486,7 +490,11 @@ hash = "6e63f31762dbbd1509638b857bb7a8398a18f8021f3b93999d112ebd85fea849"
 
 [[files]]
 file = "config/cyclic.toml"
-hash = "78a520366a138b19454520415fae922a64bf93f1ae0059f8bb1375a8848be1c7"
+hash = "9b0f9f61ce97b9605705f162e307e8aa421dd77074b3922f9dc76b2b9a16f08e"
+
+[[files]]
+file = "config/dynamiclights.json"
+hash = "7d415771f460158bf3d552e14208f4f4dbced0b7178eac63323c44cb70ad57f2"
 
 [[files]]
 file = "config/dynview-common.toml"
@@ -499,6 +507,14 @@ hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 [[files]]
 file = "config/fallingtree.json"
 hash = "fdb1fbf8d767ad1011a5180ea58617fc0b8cf0bced0ac5e362f38469e978b496"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "8133f67a8d39f7a9cc0737636ffde75326b602201354de5dd3bd716491713219"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "310c59a267ec6ef618ce9f085375ad0a23360e80fa3e51b76a66ea00577071f9"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -529,6 +545,10 @@ file = "config/memoryusagescreen.toml"
 hash = "4fad41ea0f6ae761dac30511eca7157cbed297bc6603122eec273cec3c9c912b"
 
 [[files]]
+file = "config/midnightlib.json"
+hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
+
+[[files]]
 file = "config/modelfix-client.toml"
 hash = "4d5a5d4386f2bac7f85f3a746bead9271046f5a8b7bef82f7949beac29174596"
 
@@ -538,7 +558,7 @@ hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "ebe85dd6fa86100e91f759f6039bb602f46e2dac97abe63b134712046d2739e3"
+hash = "647fd84ec5631275673f19815980bf8feb05c2e276217ccf74549431035262c4"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -550,7 +570,11 @@ hash = "18f0daed7175308eda2efba14cf295836d2d251aeb69c25977cb2d9319c387c7"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "1ce156edd13da83bb8674fe0e9b91cbbdc3a4028baf7bea2bbaec2194412bfdd"
+hash = "d94647af967cace6fe8e30e2c48b5163ae2266788816af999b38af779b7d912e"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -558,7 +582,7 @@ hash = "74965d3e724c3d852587a6543f6d01cc1f8762672a266b55727026972a825708"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "28dea118e5fb716c6e790baf72b3fbdd8e34f6e264e7b45c14202761ef1c6025"
+hash = "f2b79834caf4f293fd619b94696e0d350e4b29b9b29a925f6ebcfd398f09997b"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -581,28 +605,40 @@ file = "config/rubidium-options.json"
 hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
 
 [[files]]
+file = "config/smoothboot.json"
+hash = "f05499f6c43cc32da078855f70a9509e8e2c857043e0741701347e1262c56b80"
+
+[[files]]
 file = "config/smoothchunk.json"
 hash = "d0b988aa519ffd031e5421091eec1054464f2e29e48781f6274efd977535f574"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "c6e20a5b8c995222ddbf47f9e2afa11b00a18644b95ed9341fd0b62cd4902fe4"
+hash = "529c47db00afa65d56aa700c6ca18b80265303fb3d5c5b1f483352af4ded67b2"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "c3bcfe449fcd61303a1cb08623d621a109efd2b43a4d375d20768ceaff614c73"
+hash = "41cd8cb09bcd059f08148bb81f8f903fb691078df5aaa9979fc03ffd6afd75fd"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "e814eadabacad258ee03ec3822754842dea1838c000ae89237b9a3259a19b71d"
+hash = "2eb1996e8555227d47a50819de8a859b79c48ff665e3bfb3bb9f028ba9daadbf"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "2a39b23e57e95e7d026e469fd01ed954773cc6c19f4c1e3b8d1c3ccbaf6afaae"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "551b411694cb6447a6b21e8241ec114aa674b6c0ffa1170a2bd2f3de8b88a763"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "3dc363308127aff92e9aa242e1f32895fd0230035b1ef00369a0f96e9d6fba80"
+
+[[files]]
 file = "config/terrablender.toml"
-hash = "70da8cd57cd321ae43ec3774995de812116c67163c0ae8859965a3599e3aeefa"
+hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
 file = "config/twilightforest-client.toml"
@@ -610,7 +646,7 @@ hash = "77e7aacadc5d425ebe3f19b78bb8af526a589134877c8406244a52108c4697a0"
 
 [[files]]
 file = "config/twilightforest-common.toml"
-hash = "ae4d9b6a2f63f37de7630a0bc4333e3ab682a6fa713347dae899ffe512a6b9f5"
+hash = "6c9883899caa2197c44a6f16d9a973dc30ec20c140e25e4f7ac78dc929205ba9"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -638,7 +674,7 @@ hash = "d69d48b0c215b66ce5d9f93ef8732716ca3ca6e8e59cbbf170a43ed490a56929"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "f11248346f087c431a6abd439e767194375d858e9ddf44125a4b28e130ed0f8e"
+hash = "4c6f725ec4b7761a4aa137253979faeee941a080948a9e0a47737efb87682e1b"
 
 [[files]]
 file = "config/waveycapes.json"
@@ -654,7 +690,7 @@ hash = "b532e1ee90c08c75fc1a80f9e8de5f78faefe707471240eed45b5ef9b80f1025"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "f9a87e72967d8bc572a3665d05e7945306233351e85b7a33dc9b22fad08ede63"
+hash = "a76e01c0eff40d1f8f3103d13f8078a0280391e052239196f2b52f128e0143ad"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1009,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a148dfe3b664801b781b495f7df31763840a31546a16dc799922366f4990d423"
+hash = "f5b9334de6784aed3ea17b57656c87e6d75835350521d926cd9345c0a5d1371d"
 
 [[files]]
 file = "resourcepacks/the-creatorpack.pw.toml"
