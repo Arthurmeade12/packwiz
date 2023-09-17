@@ -708,6 +708,11 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "7d1570e176fa389d03d433b721e58898e8c33684d88e2e7300e460f9693e7d4c"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0bbbd050b43ffdd1e0135614ec217f0655bcaf4072cbf1faf10f5678d51dda62"
 metafile = true
@@ -768,6 +773,11 @@ hash = "259636601b21c7ae999f27ea087149a9a004cb7c688ca6b37c63f0e2d81ed1f9"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "0579204673f3d0d3a4423010f03c867a6a7b519a260191ccbdd029256b6449cd"
 metafile = true
@@ -803,8 +813,23 @@ hash = "a926612a0279c18515bdee95a18757aa5c200759b936129ed794748dc584f000"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "941194b650fa31742558efb25a2bc92b8bb6089da8cbf0f0eed096a6f76138b6"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "8630a92c47c281994b920f446630b9832f0058a44eb21de12bcab8f2b6f307ed"
 metafile = true
 
 [[files]]
@@ -815,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/flib.pw.toml"
 hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "c0aee4eedcbdab214dc04eb23ab98aace056c9473ac7d326c5f5edc5e1da58fb"
 metafile = true
 
 [[files]]
@@ -845,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7beba38db490b2e7e319521bc2b6d0e494f7b52bbcc7b75369c4f85730385669"
 metafile = true
 
 [[files]]
@@ -883,6 +918,11 @@ hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "5c795a323232e03487af4d771547aed1ec05becb5834cbdd84d7fdbc87224f96"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "3c8d395f37dc58dd701cf14f55a1c98317da48e689d4a993a16932ee1a23da60"
 metafile = true
@@ -905,6 +945,16 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "2a7dcfea0c0ee18353579ac88be5d5d7d95b2281cd3181529a7992357318f2db"
+metafile = true
+
+[[files]]
+file = "mods/simple-zoom.pw.toml"
+hash = "82ced392336e2f8f6b23b9b18089b4e3ebf7f1ae74cea8ba3011de2584ff23ca"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "cf34eee84a98dea956dc3241e580c0e3003d48da35eafa741e448e13f17714b6"
 metafile = true
 
 [[files]]
