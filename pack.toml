@@ -1,12 +1,12 @@
 name = "Forge 1.20.1"
 author = "Arthurmeade12"
-version = "1.0.0"
+version = "1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0454cba66b500d0d4038a8c94cd2da3271297c9f851ebb3819bac4b4d9de017d"
+hash = "a9e6c665e9e5f2277eb534aa628e1b71cd305bb16e3e74e2230e7787a464d668"
 
 [versions]
 forge = "47.1.47"

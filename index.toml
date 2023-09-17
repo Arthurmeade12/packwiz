@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "df76dbdd6bf158ec29407c7d707998b4af1de74248539787699eda03a6d0dab9"
+hash = "d50f7ff9730500e1bbd13434a9108904a81ace1419cf14423e07bcb5a68d0aef"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "811988ed0dd862bd586cf50d0d3cdd642277dcefdf5d1980c6d8504ad2f8a245"
+hash = "8bd5bc2330225cac3d3d1599b9c7ccfae687347735d8ac5327ad4d76fd295551"
 metafile = true
 
 [[files]]
