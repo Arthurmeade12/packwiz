@@ -103,7 +103,7 @@
 
 	[blocks.enhanced_hanging_sign]
 		#Modifies vanilla hanging signs to make them like old Supplementaries ones
-		enabled = true
+		enabled = false
 		#Makes supplementaries hanging signs use a simple block model instead of the animated tile entity renderer. This will make them render much faster but will also remove the animationNote that this option only affect lanterns close by as the one far away render as fast by default
 		fast_signs = false
 

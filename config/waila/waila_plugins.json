@@ -13,7 +13,7 @@
     "item_entity": true,
     "pet.owner": true,
     "pet.hide_unknown_owner": true,
-    "attribute.block_position": false,
+    "attribute.block_position": true,
     "attribute.block_state": false,
     "attribute.entity_position": false,
     "attribute.health": true,

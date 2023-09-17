@@ -119,7 +119,7 @@
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Allows all baby mobs to be captured by cages
-		cage_allow_all_babies = false
+		cage_allow_all_babies = true
 		#Dynamically allows all small mobs inside cages depending on their hitbox size
 		cage_auto_detect = false
 		#Makes it so all (hostile) mobs captured by cages and jars will be set to persistent so they won't despawn when released
@@ -405,13 +405,13 @@
 		#Allow enderman to intercept any slingshot projectile
 		unrestricted_enderman_intercept = true
 		#Allows splash potions to be thrown by slingshots
-		allow_splash_potions = false
+		allow_splash_potions = true
 		#Allows bombs to be thrown by slingshots
-		allow_bombs = false
+		allow_bombs = true
 		#Allows fire charges to be thrown by slingshots
-		allow_fire_charges = false
+		allow_fire_charges = true
 		#Allows snowballs to be thrown by slingshots
-		allow_snowballs = false
+		allow_snowballs = true
 
 	[tools.antique_ink]
 		enabled = true

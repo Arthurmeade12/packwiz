@@ -4,7 +4,7 @@
 	hide_bossbar = true
 	shadow_text = true
 	auto_start = false
-	animationSpeed = 1.0
+	animationSpeed = 1.5
 	hide_debug_crosshair = false
 	background_color = 1867534416
 	space_modules = false
